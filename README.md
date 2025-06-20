@@ -1,4 +1,4 @@
-# Stock Market Forecasting App
+ # Stock Market Forecasting App
 
 A web application for forecasting stock prices using deep learning (LSTM) and interactive visualizations. The app allows users to analyze historical stock data, view moving averages, compare actual vs. predicted prices, and forecast future prices for any stock symbol.
 
