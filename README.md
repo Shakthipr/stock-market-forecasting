@@ -60,7 +60,7 @@ To retrain the model, use `train_model.py` (ensure you have sufficient historica
 The information provided by this app is for educational purposes only. Please do your own research before making any investment decisions.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is owned and licensed by shakthipr this project can be used for fair use only.
 
 ## Author
 - [shakthipr](https://github.com/Shakthipr)
