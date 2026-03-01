@@ -37,7 +37,7 @@ A web application for forecasting stock prices using deep learning (LSTM) and in
 ```bash
 python app.py
 ```
-The app will be available at [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
 
 ### Usage
 - Enter a stock symbol (e.g., GOOG, AAPL) and number of days to forecast.
